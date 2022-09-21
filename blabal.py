@@ -1,1 +1,1 @@
-print("Toch wel je moeder")
+print("When does the hurting stop?")
